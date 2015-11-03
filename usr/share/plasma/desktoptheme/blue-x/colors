@@ -103,8 +103,8 @@ ForegroundPositive=17,209,22
 ForegroundVisited=40,140,251
 
 [General]
-ColorScheme=Plasma Next
-Name=Plasma Next
+ColorScheme=Blue-x
+Name=Blue X
 shadeSortColumn=true
 
 [KDE]
